@@ -59,7 +59,7 @@ resource "aws_security_group" "dev_sg" {
   }
 
   tags = {
-    Name = "dev-sg"
+    Name = "dev-sg1"
   }
 }
 
